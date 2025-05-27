@@ -1,0 +1,173 @@
+.Start{
+    width: 100%;
+    height: 100vh;
+    background-image:url(./images/heade_BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.TEXT{
+    width: 100%;
+    height: 1vh;
+    background-image: url(./images/separator\ one.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10%;
+}
+
+.ee{
+    width: 100%;
+    height: 1vh;
+    background-image: url(./images/separator\ one.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Text{
+    width: 100%;
+    height: 50vh; 
+    background-color: midnightblue;
+    display: flex;
+    justify-content: center;
+}
+
+.EE{
+    width: 100%;
+    height: 1vh;
+    background-image: url(./images/separator\ one.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Fineh{
+    width: 100%;
+    height: 15vh;
+
+}
+
+.content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.search{
+
+    width: 800px;
+    height: 50px;
+    margin-bottom: 10px;
+    outline: none;
+    border: none;
+} 
+
+.TTs{
+    width: 170px;
+    height: 50px;
+    margin-left: 630px;
+    border: none;
+}
+
+.List{
+    width: 290px;
+    height: 50px;
+    border-radius: 5%;
+    margin-bottom: 100px;
+    margin-left: 25px;
+    border-color: aqua;
+    background-color: midnightblue;
+    
+}
+
+.text_List{
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.mael{
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-image: url(2020_Email-Icon.webp);
+}
+
+.lin{
+    color: #000;
+    
+}
+
+.emael{
+    display: flex;
+    
+}
+
+.start_tt{
+    color: white;
+}
+
+.logo{
+   width: 80%;
+   margin: 10px auto;
+   display: flex;
+   justify-content: space-between;
+
+}
+
+.intro{
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+} 
+
+.intro_1{
+    margin: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.intro_2{
+    margin: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.intro_3{
+    background-color: cyan;
+    width: 150px;
+    height:5px ;
+    margin-left:42% ;
+    margin-right: 42%;
+}
+
+.intro_4{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+    margin-left:20% ;
+    margin-right: 20%;
+}
+
+.menu{
+    display: flex;
+    color: white;
+}
+.menu li{
+    margin: 10px;
+    list-style: none;
+}
+
+.Fineh{
+   padding-left: 25px;
+}
